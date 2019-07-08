@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Dokan 道環
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Grupo de práctica Zen Soto
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,15 +20,19 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Nosotros: "nosotros"
+  Encuentros:
+    - Talleres: "talleres"
+    - Prácticas: "prácticas"
+    - Retiros: "retiros"
+  Recursos:
+    - Videos: "videos"
+    - Lecturas: "https://sotozencolombia.org/?page_id=62"
+    - Enlaces: 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/dokan.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -68,19 +72,19 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
+  email: "zensotodokan@gmail.com"
+  facebook: zensotodokan
   github: daattali
-  twitter: daattali
+# twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: zensotodokan
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +584142831894
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
