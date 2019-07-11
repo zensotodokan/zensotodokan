@@ -2,6 +2,7 @@
 layout: post
 title: La Concentración Correcta
 subtitle: fragmento de El corazón de las enseñanzas de Buda, de Thich Naht Hanh
+categories: [enseñanzas]
 ---
 
 La práctica de la Concentración Correcta (_samyak samadhi_) consiste en cultivar una mente unidireccional. El caracter chino que corresponde a concentración significa literalmente «mantener una constancia» ni demasiado alta ni demasiado baja, ni demasiado excitada ni demasiado embotada. Otro término chino que a veces se utiliza para indicar la palabra concentración significa «la morada de la verdadera mente». 

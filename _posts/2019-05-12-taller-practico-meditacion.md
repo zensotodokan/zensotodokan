@@ -2,7 +2,7 @@
 layout: post
 title: Taller práctico de meditación Zen
 subtitle: El próximo sábado 18 de mayo a la 1:00 pm
-tags: [talleres]
+categories: [talleres]
 ---
 
 La Vía del Zen trasciende las palabras y los conceptos, no es una creencia o una filosofía, se practica, es esencialmente una experiencia.

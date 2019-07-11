@@ -2,6 +2,7 @@
 layout: post
 title: El habla correcta
 subtitle: Fragmento de El corazón de las enseñanzas de Buda, de Thich Nhat Hanh
+categories: [enseñanzas]
 ---
 
 Consciente del sufrimiento que causan hablar irreflexivamente y la incapacidad de escuchar a los demás, me comprometo a hablar con afecto y a escuchar con atención para aportar alegría y felicidad a los otros y aliviar su sufrimiento. Sabiendo que las palabras tienen el poder de provocar la felicidad o el sufrimiento, estoy decidido a hablar con veracidad, pronunciando palabras que inspiren autoconfianza, alegría y esperanza. No difundiré noticias de las que no esté seguro ni criticaré o condenaré nada de lo que no tenga certidumbre. Me abstendré de pronunciar palabras que puedan causar división o discordia, o susceptibles de provocar la separación de la familia o la comunidad. Estoy decidido a hacer todo lo posible por reconciliar y resolver todo tipo de conflictos, por insignificantes que sean.
