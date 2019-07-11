@@ -2,7 +2,7 @@
 layout: post
 title: Zen y budismo zen
 subtitle: Palabras de Densho Quintero
-categories: [enseñanzas]
+tags: [ensenanzas]
 ---
 Cuando se oye hablar del zen, con frecuencia las personas lo asocian con estética oriental, con minimalismo, sobriedad, frases incomprensibles, y con una actitud pasiva frente a las circunstancias. Sin duda la palabra zen despierta interés, pero si uno habla de budismo zen, la gente se previene y se cierra. Se cree que el budismo es una religión dogmática como otras, que está conformada por un conjunto de creencias. Muchas personas temen que si se acercan demasiado corren el riesgo de ser adoctrinadas. Sin embargo, a pesar de la insistencia de algunos por desvincular el zen del budismo, no existe zen sin budismo. El zen es la actualización misma de la experiencia de despertar que dio al Buda su epíteto de iluminado. No obstante, hay que comprender que budismo no se basa en las creencias, sino por el contrario, radica en la experiencia directa de la realidad inmediata sin filtrarla por la mente conceptual. Es, ante todo, un método práctico de estudio de la relación de la mente con los fenómenos. Del yo y lo otro. El mismo Buda advertía sobre el riesgo de creer fehacientemente en las enseñanzas y nos invitaba a ponerlas a prueba. En nuestra práctica, esencialmente nos sentamos en silencio soltando el aferramiento a las propias ideas y creencias, para poder ver la realidad desde una perspectiva más amplia y no, desde la visión estrecha de una mente restringida por los prejuicios. Comprendemos que toda idea es una construcción condicionada por las propias circunstancias de vida y no una expresión directa de la realidad.
 

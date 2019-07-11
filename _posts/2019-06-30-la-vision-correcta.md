@@ -1,8 +1,8 @@
 ---
 layout: post
 title: La visión correcta
-subtitle: Framento de _El corazón de las enseñanzas de Buda_, de Thich Naht Hanh
-categories: [enseñanzas]
+subtitle: Framento de El corazón de las enseñanzas de Buda, de Thich Naht Hanh
+tags: [ensenanzas]
 ---
 
 La Visión Correcta consiste, ante todo, en comprender profundamente las Cuatro Nobles Verdades: nuestro sufrimiento, cómo se forma, el hecho de que el sufrimiento puede transformarse y la senda de la transformación. Buda dijo que la Visión Correcta consiste en tener fe y confianza en que hay personas que han sido capaces de transformar su sufrimiento. El venerable Sariputra añadió que la Visión Correcta radica en conocer cuál de los cuatro tipos de alimentos que hemos ingerido ha causado lo que acaba de crearse.
